@@ -10,9 +10,7 @@ Cabinet and Military oblique projections for [IngeTrazo](https://ingetrazo.com/)
 | --- | --- | --- |
 | ![Cabinet ZX](docs/images/cabinet-zx.png) | ![Cabinet YZ](docs/images/cabinet-yz.png) | ![Military XY](docs/images/military-xy.png) |
 
-<img width="689" height="567" alt="oblique" src="https://github.com/user-attachments/assets/4e97fc5f-d24f-4848-b304-2d528af39bd8" />
-
-
+<img width="551" height="454" alt="oblique" src="https://github.com/user-attachments/assets/c60c1134-7838-4b85-9d10-60215fe3eb7f" />
 
 ## Features
 
